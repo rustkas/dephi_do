@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2018.12.08 20:11:47.260,=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018.12.08 20:16:22.118,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Printing\PrintListUnit.dfm=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2018.12.08 20:16:22.118,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Printing\PrintListUnit.pas=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018.12.08 20:16:44.235,=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2018.12.08 20:16:53.951,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Printing\MainUnit.pas=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2018.12.08 20:16:53.951,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Printing\MainUnit.dfm=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2018.12.08 20:20:46.582,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Printing\PrintProject.dproj=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

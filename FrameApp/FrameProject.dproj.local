@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2018.11.30 15:16:12.850,=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018.11.30 15:16:25.396,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\FrameApp\MainUnit.pas=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018.11.30 15:16:25.396,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\FrameApp\MainUnit.dfm=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2018.11.30 15:17:36.305,=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018.11.30 15:17:48.629,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\FrameApp\FrameUnit.dfm=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2018.11.30 15:17:48.629,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\FrameApp\FrameUnit.pas=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018.11.30 17:08:37.689,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\FrameApp\FrameProject.dproj=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2018.11.30 17:08:55.936,=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\FrameApp\Unit2.pas</Transaction>
+    <Transaction>2018.11.30 17:17:00.614,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\FrameApp\ChildUnit.pas=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\FrameApp\Unit2.pas</Transaction>
+    <Transaction>2018.11.30 17:17:00.614,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\FrameApp\ChildUnit.dfm=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\FrameApp\Unit2.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.956,=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Painting\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.685,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Painting\Unit1.pas=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Painting\ColorUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.505,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Painting\Unit1.pas=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Painting\StatusBarUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.797,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Painting\Unit1.pas=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Painting\CopyModeUnit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.266,=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Painting\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.032,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Painting\Unit1.pas=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Painting\TextUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.798,=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Painting\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.627,=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Painting\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.031,=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Painting\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.486,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Painting\Unit1.pas=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Painting\TextAngleUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.808,=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Painting\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.285,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Painting\Unit1.pas=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Painting\ListBoxDrawUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.073,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Painting\Unit2.pas=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Painting\RectangleUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.073,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Painting\Unit2.dfm=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Painting\RectangleUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.783,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Painting\PaintUnit.dfm=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Painting\PenUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.059,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Painting\Unit1.pas=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Painting\CopyModeUnit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.608,=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Painting\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.244,=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Painting\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.503,=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Painting\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.271,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Painting\Unit1.pas=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Painting\ImageUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.142,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Painting\Unit1.dfm=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Painting\BrushUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.465,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Painting\Unit1.dfm=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Painting\PaintUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.032,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Painting\Unit1.dfm=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Painting\TextUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.685,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Painting\Unit1.dfm=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Painting\ColorUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.486,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Painting\Unit1.dfm=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Painting\TextAngleUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.986,=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.045,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Unit1.dfm=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Painting\MainUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.778,=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.015,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Project1.dproj=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Painting\Painting.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.045,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Unit1.pas=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Painting\MainUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.142,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Painting\Unit1.pas=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Painting\BrushUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.783,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Painting\PaintUnit.pas=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Painting\PenUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.112,=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Painting\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.465,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Painting\Unit1.pas=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Painting\PaintUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.326,=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Painting\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.797,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Painting\Unit1.dfm=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Painting\CopyModeUnit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.505,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Painting\Unit1.dfm=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Painting\StatusBarUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.059,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Painting\Unit1.dfm=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Painting\CopyModeUnit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.285,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Painting\Unit1.dfm=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Painting\ListBoxDrawUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.271,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Painting\Unit1.dfm=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Painting\ImageUnit.dfm</Transaction>
+    <Transaction>2018.12.08 18:49:42.538,=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Painting\Unit1.pas</Transaction>
+    <Transaction>2018.12.08 18:55:08.341,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Painting\ScanUnit.pas=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Painting\Unit1.pas</Transaction>
+    <Transaction>2018.12.08 18:55:08.341,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Painting\ScanUnit.dfm=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Painting\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

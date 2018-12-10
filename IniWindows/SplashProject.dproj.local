@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2018.11.30 13:43:56.104,=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018.11.30 13:44:38.741,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\IniWindows\MainUnit.dfm=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2018.11.30 13:44:38.741,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\IniWindows\MainUnit.pas=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018.11.30 13:45:03.753,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\IniWindows\SplashProject.dproj=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2018.11.30 13:48:42.678,=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\IniWindows\Unit2.pas</Transaction>
+    <Transaction>2018.11.30 13:48:47.686,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\IniWindows\SplashUnit.pas=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\IniWindows\Unit2.pas</Transaction>
+    <Transaction>2018.11.30 13:48:47.686,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\IniWindows\SplashUnit.dfm=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\IniWindows\Unit2.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

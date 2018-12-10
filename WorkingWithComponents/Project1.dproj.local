@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2018.11.24 18:14:43.058,=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018.11.24 18:15:31.441,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\WorkingWithComponents\MainAlfa.dfm=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2018.11.24 18:15:31.441,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\WorkingWithComponents\MainAlfa.pas=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018.11.24 18:20:04.146,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\WorkingWithComponents\Project1.dproj=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2018.11.24 18:25:04.624,=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\WorkingWithComponents\Unit2.pas</Transaction>
+    <Transaction>2018.11.24 18:25:35.967,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\WorkingWithComponents\bsdialog.pas=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\WorkingWithComponents\Unit2.pas</Transaction>
+    <Transaction>2018.11.24 18:25:35.967,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\WorkingWithComponents\bsdialog.dfm=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\WorkingWithComponents\Unit2.dfm</Transaction>
+    <Transaction>2018.11.24 18:28:42.374,=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\WorkingWithComponents\Unit3.pas</Transaction>
+    <Transaction>2018.11.24 18:28:55.075,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\WorkingWithComponents\bsNone.dfm=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\WorkingWithComponents\Unit3.dfm</Transaction>
+    <Transaction>2018.11.24 18:28:55.075,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\WorkingWithComponents\bsNone.pas=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\WorkingWithComponents\Unit3.pas</Transaction>
+    <Transaction>2018.11.24 18:46:56.081,=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\WorkingWithComponents\Unit1.pas</Transaction>
+    <Transaction>2018.11.24 18:47:21.402,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\WorkingWithComponents\bsSigle.pas=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\WorkingWithComponents\Unit1.pas</Transaction>
+    <Transaction>2018.11.24 18:47:21.402,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\WorkingWithComponents\bsSigle.dfm=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\WorkingWithComponents\Unit1.dfm</Transaction>
+    <Transaction>2018.11.24 19:25:06.162,=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\WorkingWithComponents\Unit1.pas</Transaction>
+    <Transaction>2018.11.24 19:30:07.630,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\WorkingWithComponents\bsSizeble.dfm=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\WorkingWithComponents\Unit1.dfm</Transaction>
+    <Transaction>2018.11.24 19:30:07.630,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\WorkingWithComponents\bsSizeble.pas=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\WorkingWithComponents\Unit1.pas</Transaction>
+    <Transaction>2018.11.24 20:08:26.507,=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\WorkingWithComponents\Unit1.pas</Transaction>
+    <Transaction>2018.11.24 20:09:38.932,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\WorkingWithComponents\bsSizeToolWin.dfm=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\WorkingWithComponents\Unit1.dfm</Transaction>
+    <Transaction>2018.11.24 20:09:38.932,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\WorkingWithComponents\bsSizeToolWin.pas=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\WorkingWithComponents\Unit1.pas</Transaction>
+    <Transaction>2018.11.24 20:10:14.802,=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\WorkingWithComponents\Unit1.pas</Transaction>
+    <Transaction>2018.11.24 20:10:54.483,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\WorkingWithComponents\bsToolWindow.pas=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\WorkingWithComponents\Unit1.pas</Transaction>
+    <Transaction>2018.11.24 20:10:54.483,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\WorkingWithComponents\bsToolWindow.dfm=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\WorkingWithComponents\Unit1.dfm</Transaction>
+    <Transaction>2018.11.24 20:33:29.895,=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\WorkingWithComponents\Unit1.pas</Transaction>
+    <Transaction>2018.11.24 20:34:58.144,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\WorkingWithComponents\enable.dfm=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\WorkingWithComponents\Unit1.dfm</Transaction>
+    <Transaction>2018.11.24 20:34:58.144,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\WorkingWithComponents\enable.pas=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\WorkingWithComponents\Unit1.pas</Transaction>
+    <Transaction>2018.11.24 21:15:58.390,=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\WorkingWithComponents\Unit1.pas</Transaction>
+    <Transaction>2018.11.24 21:17:48.496,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\WorkingWithComponents\Dock.pas=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\WorkingWithComponents\Unit1.pas</Transaction>
+    <Transaction>2018.11.24 21:17:48.496,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\WorkingWithComponents\Dock.dfm=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\WorkingWithComponents\Unit1.dfm</Transaction>
+    <Transaction>2018.11.24 21:36:15.347,=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\WorkingWithComponents\Unit1.pas</Transaction>
+    <Transaction>2018.11.24 21:39:12.994,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\WorkingWithComponents\BorderWidth.pas=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\WorkingWithComponents\Unit1.pas</Transaction>
+    <Transaction>2018.11.24 21:39:12.994,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\WorkingWithComponents\BorderWidth.dfm=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\WorkingWithComponents\Unit1.dfm</Transaction>
+    <Transaction>2018.11.24 21:51:22.691,=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\WorkingWithComponents\Unit1.pas</Transaction>
+    <Transaction>2018.11.24 21:52:18.851,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\WorkingWithComponents\WindowSize.dfm=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\WorkingWithComponents\Unit1.dfm</Transaction>
+    <Transaction>2018.11.24 21:52:18.851,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\WorkingWithComponents\WindowSize.pas=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\WorkingWithComponents\Unit1.pas</Transaction>
+    <Transaction>2018.11.24 21:53:32.122,=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\WorkingWithComponents\Unit1.pas</Transaction>
+    <Transaction>2018.11.24 21:54:24.581,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\WorkingWithComponents\WidowColor.dfm=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\WorkingWithComponents\Unit1.dfm</Transaction>
+    <Transaction>2018.11.24 21:54:24.581,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\WorkingWithComponents\WidowColor.pas=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\WorkingWithComponents\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.859,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Apps1\Unit2.dfm=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Apps1\NonModalFormUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.859,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Apps1\Unit2.pas=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Apps1\NonModalFormUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.912,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Unit2.dfm=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Apps1\AboutUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.912,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Unit2.pas=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Apps1\AboutUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.581,=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.275,=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.251,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Unit1.dfm=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Apps1\MainMenuApp.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.251,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Unit1.pas=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Apps1\MainMenuApp.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.404,=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Apps1\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.777,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Project1.dproj=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Apps1\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

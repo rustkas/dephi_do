@@ -1,0 +1,20 @@
+object FWidowSize: TFWidowSize
+  Left = 137
+  Top = 94
+  Caption = 'Form1'
+  ClientHeight = 206
+  ClientWidth = 287
+  Color = clBtnFace
+  Constraints.MaxHeight = 400
+  Constraints.MaxWidth = 400
+  Constraints.MinHeight = 200
+  Constraints.MinWidth = 200
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+end

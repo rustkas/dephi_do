@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2018.11.30 12:42:39.286,=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018.11.30 12:43:10.226,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\MDI App\MainModule.dfm=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2018.11.30 12:43:10.226,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\MDI App\MainModule.pas=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018.11.30 12:43:54.558,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\MDI App\mdi.dproj=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2018.11.30 12:44:51.761,=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\MDI App\Unit2.pas</Transaction>
+    <Transaction>2018.11.30 12:45:24.100,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\MDI App\ChildModule.pas=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\MDI App\Unit2.pas</Transaction>
+    <Transaction>2018.11.30 12:45:24.100,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\MDI App\ChildModule.dfm=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\MDI App\Unit2.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

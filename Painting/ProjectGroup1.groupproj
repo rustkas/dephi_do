@@ -1,0 +1,48 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{5A370B18-0177-47D9-B25B-ADBF8097A0CC}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="Painting.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="..\Printing\PrintProject.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="Painting">
+        <MSBuild Projects="Painting.dproj"/>
+    </Target>
+    <Target Name="Painting:Clean">
+        <MSBuild Projects="Painting.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Painting:Make">
+        <MSBuild Projects="Painting.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="PrintProject">
+        <MSBuild Projects="..\Printing\PrintProject.dproj"/>
+    </Target>
+    <Target Name="PrintProject:Clean">
+        <MSBuild Projects="..\Printing\PrintProject.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="PrintProject:Make">
+        <MSBuild Projects="..\Printing\PrintProject.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="Painting;PrintProject"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="Painting:Clean;PrintProject:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="Painting:Make;PrintProject:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>

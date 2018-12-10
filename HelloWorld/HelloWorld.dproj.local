@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.804,=E:\work\workspaces\rad\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.474,E:\work\workspaces\rad\Unit1.pas=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\HelloWorld\MainModule.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.404,E:\work\workspaces\rad\Project1.dproj=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\HelloWorld\HelloWorld.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.474,E:\work\workspaces\rad\Unit1.dfm=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\HelloWorld\MainModule.dfm</Transaction>
+    <Transaction>2018.11.23 20:05:22.840,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\HelloWorld\MyMainModule.pas=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\HelloWorld\MainModule.pas</Transaction>
+    <Transaction>2018.11.23 20:05:22.840,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\HelloWorld\MyMainModule.dfm=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\HelloWorld\MainModule.dfm</Transaction>
+    <Transaction>2018.11.23 20:05:28.979,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\HelloWorld\MainModule.pas=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\HelloWorld\MyMainModule.pas</Transaction>
+    <Transaction>2018.11.23 20:05:28.979,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\HelloWorld\MainModule.dfm=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\HelloWorld\MyMainModule.dfm</Transaction>
+    <Transaction>2018.11.23 20:05:39.281,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\HelloWorld\MyMainModule.dfm=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\HelloWorld\MainModule.dfm</Transaction>
+    <Transaction>2018.11.23 20:05:39.281,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\HelloWorld\MyMainModule.pas=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\HelloWorld\MainModule.pas</Transaction>
+    <Transaction>2018.11.23 20:05:45.710,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\HelloWorld\MainModule.dfm=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\HelloWorld\MyMainModule.dfm</Transaction>
+    <Transaction>2018.11.23 20:05:45.710,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\HelloWorld\MainModule.pas=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\HelloWorld\MyMainModule.pas</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.301,=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\PrintingProject\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.573,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\PrintingProject\Unit1.pas=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\PrintingProject\GraphicsPaintUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.405,=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\PrintingProject\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.089,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\PrintingProject\Unit1.pas=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\PrintingProject\PrintImageUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.089,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\PrintingProject\Unit1.dfm=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\PrintingProject\PrintImageUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.573,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\PrintingProject\Unit1.dfm=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\PrintingProject\GraphicsPaintUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.576,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\PrintingProject\Unit1.dfm=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\PrintingProject\PrintMemo.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.204,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\PrintingProject\Unit1.dfm=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\PrintingProject\FormPrintUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.377,=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.400,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Unit1.dfm=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\PrintingProject\MainUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.400,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Unit1.pas=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\PrintingProject\MainUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.580,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\Project1.dproj=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\PrintingProject\PrintingProject.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.929,=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\PrintingProject\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.204,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\PrintingProject\Unit1.pas=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\PrintingProject\FormPrintUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.732,=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\PrintingProject\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.576,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\PrintingProject\Unit1.pas=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\PrintingProject\PrintMemo.pas</Transaction>
+    <Transaction>2018.12.09 09:49:38.217,=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\PrintingProject\Unit1.pas</Transaction>
+    <Transaction>2018.12.09 09:52:03.285,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\PrintingProject\PrintListViewUnit.dfm=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\PrintingProject\Unit1.dfm</Transaction>
+    <Transaction>2018.12.09 09:52:03.285,E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\PrintingProject\PrintListViewUnit.pas=E:\Users\tol_pc\Documents\Embarcadero\Studio\Projects\PrintingProject\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
